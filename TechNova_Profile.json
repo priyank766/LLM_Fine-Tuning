@@ -1,0 +1,93 @@
+{
+  "CompanyName": "TechNova Solutions Inc.",
+  "WorkingAddress": "742 Innovation Drive, Suite 300, Palo Alto, CA 94301, USA",
+  "Founded": "2004-07-15",
+  "TickerSymbol": "TNVS",
+  "KeyExecutives": {
+    "CEO": "Maria Chen",
+    "CTO": "David Alvarez",
+    "CFO": "Priya Singh",
+    "HeadOfHR": "Elena Rostova"
+  },
+  "StaffMembers": {
+    "TotalEmployees": 1250,
+    "Departments": {
+      "Engineering": 520,
+      "SalesAndMarketing": 210,
+      "Operations": 180,
+      "Finance": 80,
+      "HR": 60,
+      "CustomerService": 200
+    }
+  },
+  "AnnualTurnoverFY2024": "USD 423.7 million",
+  "BalanceSheet_2024_12_31": {
+    "TotalAssets": "USD 612.3 M",
+    "TotalLiabilities": "USD 318.5 M",
+    "ShareholdersEquity": "USD 293.8 M",
+    "WorkingCapital": "USD 293.8 M"
+  },
+  "YearOverYearGrowth_2023_2024": {
+    "RevenueGrowth": "+18.4 %",
+    "NetIncomeGrowth": "+12.7 %"
+  },
+  "MarketCap_2025_08_04": "USD 1.15 billion",
+  "TopProducts": [
+    "NovaCore\u2122 AI Engine",
+    "DataLink\u2122 Secure Pipeline",
+    "InsightHub\u2122 Analytics",
+    "CloudForge\u2122 DevOps Suite",
+    "EdgeVision\u2122 IoT Module"
+  ],
+  "CustomerReviews": {
+    "AverageRating": "4.3 / 5.0",
+    "TotalReviews": 1842,
+    "TopPraise": [
+      "Robust AI models",
+      "Excellent data security"
+    ],
+    "CommonCritiques": [
+      "Steep learning curve",
+      "License cost on the higher side"
+    ]
+  },
+  "ServicesOffered": {
+    "ProfessionalServices": [
+      "Implementation",
+      "Custom Integration",
+      "Data Migration"
+    ],
+    "Consulting": [
+      "AI Strategy",
+      "Data Governance"
+    ],
+    "TrainingAndCertification": [
+      "On-site Workshops",
+      "Online Courses"
+    ]
+  },
+  "CustomerSupport": {
+    "Channels": [
+      "24/7 Email & Phone",
+      "Live Chat (M\u2013F 8 am\u20138 pm PT)",
+      "Dedicated Account Manager"
+    ],
+    "SLAs": {
+      "Critical": "Responded within 1 hour",
+      "NonCritical": "Responded within 4 hours"
+    },
+    "CustomerSatisfactionScore": "92.4 %"
+  },
+  "AdditionalFields": {
+    "RDBudget_2024": "USD 37.5 M",
+    "GlobalOffices": [
+      "USA",
+      "UK",
+      "Germany",
+      "India",
+      "Japan"
+    ],
+    "ESGRating": "AA (MSCI)",
+    "CorporateMotto": "Empowering Tomorrow\u2019s Intelligence Today."
+  }
+}

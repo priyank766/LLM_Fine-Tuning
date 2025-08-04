@@ -1,0 +1,9 @@
+peft
+accelerate
+bitsandBytes
+transformers
+GPUtil
+torch
+huggingface_hub
+pandas
+json
