@@ -6,4 +6,11 @@ GPUtil
 torch
 huggingface_hub
 pandas
-json
+langchain
+faiss-cpu
+jq
+sentence-transformers
+langgraph
+langchain-google-genai
+python-dotenv
+langchain-community
